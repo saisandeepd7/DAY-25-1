@@ -1,0 +1,33 @@
+
+
+img{
+  height:400px;
+}
+
+#para{
+  padding:15px;
+}
+.facts{
+  text-align: center;
+  font-family: cursive;
+}
+
+.next{
+ background-color: white;
+ color:red;
+ border:1px solid red;
+ 
+ border-radius: 5px;
+}
+.image{
+  height:220px;
+}
+
+.name{
+  font-weight: bold ;
+  font-size:x-large;
+}
+body{
+  background-color: #f5f5f5;
+}
+
